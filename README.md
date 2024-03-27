@@ -3,14 +3,6 @@
   <img src="assets/icon.webp" width="160" alt="SALAD icon" style="border-radius: 5%;"><br />
   <span style="color:red">📢 <strong><i>We are currently organizing the code for SALAD-Bench. If you are interested in our work, please star ⭐ our project.</i></strong></span>
 
-  <h4>
-    <img src="https://img.shields.io/badge/Version-1.0.0-blue.svg" alt="Version"> 
-    <img src="https://img.shields.io/badge/License-Apache_2.0-green.svg" alt="License">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=OpenSafetyLab.SALAD-BENCH" />
-    <img src="https://img.shields.io/github/stars/OpenSafetyLab/SALAD-BENCH?color=yellow" alt="Stars">
-    <img src="https://img.shields.io/github/issues/OpenSafetyLab/SALAD-BENCH?color=red" alt="Issues">
-  </h4>
-
   <h4> | <a href="https://huggingface.co/mcj311/saladbench_data" target="_blank">🥗 SALAD-Data</a> | <a href="https://huggingface.co/mcj311/saladbench_evaluator" target="_blank">🤗 MD-Judge</a>|
   </h4>
 </div>
