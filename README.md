@@ -11,18 +11,9 @@
     <img src="https://img.shields.io/github/issues/OpenSafetyLab/SALAD-BENCH?color=red" alt="Issues">
   </h4>
 
-  <h4> | <a href="https://huggingface.co/datasets/OpenSafetyLab/Salad-Data" target="_blank">🥗 SALAD-Data</a> | <a href="https://huggingface.co/OpenSafetyLab/MD-Judge-v0.1" target="_blank">🤗 MD-Judge</a> | <a href="https://arxiv.org/abs/2402.05044" target="_black">📖 Arxiv Paper</a> |<a href="https://adwardlee.github.io/salad_bench" target="_blank">🚧 Project_page</a>|<a href="https://huggingface.co/spaces/OpenSafetyLab/Salad-Bench-Leaderboard" target="_blank">🏆 Leaderboard</a>|
+  <h4> | <a href="https://huggingface.co/mcj311/saladbench_data" target="_blank">🥗 SALAD-Data</a> | <a href="https://huggingface.co/mcj311/saladbench_evaluator" target="_blank">🤗 MD-Judge</a>|
   </h4>
 </div>
-
-
-<h2 id="updates">🔥 Updates</h2>
-
-📆[2024-03-08] We have updated our leaderboard in Huggingface Space at [HF_leaderboard](https://huggingface.co/spaces/OpenSafetyLab/Salad-Bench-Leaderboard) with a more detailed results for all the 6-16-66 dimensions.
-
-📆[2024-02-28] Gemma,Qwen1.5,Internlm2 are updated in the [leaderboard](https://adwardlee.github.io/salad_bench/leaderboard.html).
-
-📆[2024-02-27] Project page is setted up at [here](https://adwardlee.github.io/salad_bench/)
 
 
 <h2 id="SALAD-Bench">🎉 Introduction</h2>
@@ -87,7 +78,7 @@ for i in range(len(questions)):
    print(eval_clses[i])
 ```
 
-see more in [examples/readme.md](https://github.com/OpenSafetyLab/SALAD-BENCH/blob/main/examples/README.md)
+see more in [examples/readme.md](https://github.com/adwardlee/SALAD/blob/master/examples/README.md)
 
 
 
