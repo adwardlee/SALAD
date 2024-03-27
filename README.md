@@ -80,18 +80,3 @@ for i in range(len(questions)):
 
 see more in [examples/readme.md](https://github.com/adwardlee/SALAD/blob/master/examples/README.md)
 
-
-
-<h2 id="citation">📑 Citation</h2>
-
-```bibtex
-@article{li2024salad,
-  title={SALAD-Bench: A Hierarchical and Comprehensive Safety Benchmark for Large Language Models},
-  author={Li, Lijun and Dong, Bowen and Wang, Ruohui and Hu, Xuhao and Zuo, Wangmeng and Lin, Dahua and Qiao, Yu and Shao, Jing},
-  journal={arXiv preprint arXiv:2402.05044},
-  year={2024}
-}
-```
-
-<hr>
-<p align="center">SALAD-Bench Team</p>
