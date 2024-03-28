@@ -6,8 +6,8 @@
 </div>
 
 
-<h2 id="Data">🎉 Data</h2>
-See the data in [Data](https://github.com/adwardlee/SALAD/tree/master/data)
+<h2 id="Data"> Data</h2>
+See the data in [Here](https://github.com/adwardlee/SALAD/tree/master/data)
 
 <h2 id="SALAD-Bench">🎉 Introduction</h2>
 
